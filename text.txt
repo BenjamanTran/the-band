@@ -1,0 +1,10 @@
+link template
+https://www.w3schools.com/w3css/tryw3css_templates_band.htm
+bo cuc-->done
+--header--> done
+--navigation-->done
+--slide-->done
+--content
+--tour
+--contact
+--footer
